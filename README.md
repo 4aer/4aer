@@ -1,6 +1,6 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=4aer.4aer)
 
-<h1 align="center">Hello, I'm Mark <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhhZWN4aGp3cHBwcWpvZTI0bmN0Z2R1b2FneXFhNzg2Y2g5dmNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bCm4v4wy0LSfdz72Mr/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello, I'm Mark <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhhZWN4aGp3cHBwcWpvZTI0bmN0Z2R1b2FneXFhNzg2Y2g5dmNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bCm4v4wy0LSfdz72Mr/giphy.gif" width="20px"></h1>
 
 ### About Me:
 - 🧐 I'm currently studying **Information Technology**
