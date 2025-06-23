@@ -20,7 +20,6 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🧬 Frameworks and Libraries
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
