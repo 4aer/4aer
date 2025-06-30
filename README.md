@@ -55,9 +55,10 @@
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="facebook-markolmedo" height="30"/>
       </a>
-      <a href="mailto:mn.olmedo4@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="gmail-markolmedo" height="30"/>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mn.olmedo4@gmail.com" target="_blank">
+         <img align="center"
+              src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+              alt="gmail-markolmedo" height="30"/>
       </a>
     </p>
 </details>
