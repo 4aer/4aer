@@ -1,6 +1,6 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=4aer.4aer)
 
-<h1 align="center">Hello, I'm Mark <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhhZWN4aGp3cHBwcWpvZTI0bmN0Z2R1b2FneXFhNzg2Y2g5dmNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bCm4v4wy0LSfdz72Mr/giphy.gif" width="20px"></h1>
+<h1 align="center">Hello, I'm Mark <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE0NDk5NDcsIm5iZiI6MTc1MTQ0OTY0NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAyVDA5NDcyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmYzUzMWRhZmE3OTEwYmEyMzFkODg2YWYzYTBjNzZlYWZiMDM3YjBjMWVmYWNiMzQ1MDcxN2JhNjMxNjdhOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DT5HBHIxAOUDsoR5h2GEDZG0fGx9ENBMHEIB5FJYuS8" width="30px"></h1>
 
 ### About Me:
 - 🧐 I'm currently studying **Information Technology**
