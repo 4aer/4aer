@@ -43,8 +43,8 @@
 <details>
   <summary><b>🧠 Stats</b></summary>
   <div align="center">
-    <img style="width:317px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aer&theme=rose_pine&exclude_repo=FPS-Game&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=4aer&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+    <img style="width:420px" src="https://github-readme-stats.vercel.app/api?username=4aer&theme=gotham&show_icons=true&hide_border=false&count_private=true"/>
+    <img style="width:320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aer&theme=gotham&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800"/><br/>
   </div>
 
 </details>
