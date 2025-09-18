@@ -42,8 +42,8 @@
 <details>
   <summary><b>🧠 Stats</b></summary>
   <div align="center">
-    <img style="width:420px" src="https://github-readme-stats.vercel.app/api?username=4aer&theme=gotham&show_icons=true&hide_border=false&count_private=true"/>
-    <img style="width:320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aer&theme=gotham&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800"/><br/>
+    <img style="width:420px" src="https://4aer-readme-stats.vercel.app/api?username=4aer&theme=gotham&show_icons=true&hide_border=false&count_private=true"/>
+    <img style="width:320px" src="https://4aer-readme-stats.vercel.app/api/top-langs/?username=4aer&theme=gotham&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800"/><br/>
   </div>
 
 </details>
