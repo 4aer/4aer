@@ -5,7 +5,7 @@
 ### About Me:
 - 🧐 I'm currently studying **Information Technology**
 
-- 📚 I'm currently learning **Flask** and **Embedded Systems**
+- 📚 I'm currently learning **Flask** and **IoT Development**
 
 - 🌱 Always open to learning new things and embracing opportunities that challenge me to grow
 ##
