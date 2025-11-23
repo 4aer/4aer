@@ -52,14 +52,15 @@
   <summary><b>🔗 Connect with Me</b></summary>
   <p align="center">
       <br/>
-      <a href="https://www.facebook.com/mbaldovia04" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="facebook-markolmedo" height="30"/>
-      </a>
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mn.olmedo4@gmail.com" target="_blank">
          <img align="center"
               src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
               alt="gmail-markolmedo" height="30"/>
+      </a>
+      <a href="https://discord.com/users/466644106521870342" target="_blank">
+         <img align="center"
+              src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+              alt="discord-aer" height="30"/>
       </a>
     </p>
 </details>
