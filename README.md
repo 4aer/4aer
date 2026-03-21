@@ -5,7 +5,7 @@
 ### About Me:
 - 🧐 I'm currently studying **Information Technology**
 
-- 📚 I'm currently learning **Flask** and **IoT Development**
+- 📚 I'm currently learning **Linux** and **AWS**
 
 - 🌱 Always open to learning new things and embracing opportunities that challenge me to grow
 ##
