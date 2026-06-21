@@ -5,7 +5,7 @@
 ### About Me:
 - 🧐 I'm currently studying **Information Technology**
 
-- 📚 I'm currently learning **Linux** and **AWS**
+- 📚 I'm currently learning **Linux** and **Agentic Development**
 
 - 🌱 Always open to learning new things and embracing opportunities that challenge me to grow
 ##
