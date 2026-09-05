@@ -5,7 +5,7 @@
 ### About Me:
 - 🧐 **Information Technology** graduate
 
-- 📚 I'm currently learning **System Design**
+- 📚 I'm currently learning **Microsoft Azure Workflow**
 
 - 🌱 Always open to learning new things and embracing opportunities that challenge me to grow
 ##
